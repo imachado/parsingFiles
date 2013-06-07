@@ -26,7 +26,7 @@ public class Global {
 //			"/Users/ivanmachado/Source Code/OSS-ICSE/irssi",
 //			"/Users/ivanmachado/Source Code/OSS-ICSE/libxml2",
 //			"/Users/ivanmachado/Source Code/OSS-ICSE/lighttpd",
-			"/Users/ivanmachado/Source Code/OSS-ICSE/linux"//,
+//			"/Users/ivanmachado/Source Code/OSS-ICSE/linux"//,
 //			"/Users/ivanmachado/Source Code/OSS-ICSE/lynx",
 //			"/Users/ivanmachado/Source Code/OSS-ICSE/minix",
 //			"/Users/ivanmachado/Source Code/OSS-ICSE/mplayer",
